@@ -9,8 +9,6 @@ Please remember **unplug** TX-cable(from sensor)/RX-cable(from nodemcu) when upl
 
 ### CODE
 ```
-
-
 struct pms5003data {
   uint16_t framelen;
   uint16_t pm10_standard, pm25_standard, pm100_standard;
@@ -95,3 +93,7 @@ boolean readPMSdata(Stream *s) {
   return true;
 }
 ```
+
+
+
+![pms5003 serial nodemcu esp8266mod](https://raw.githubusercontent.com/hanandika/pms5003_serial_nodemcu_esp8266mod/master/images/image.jpeg)
