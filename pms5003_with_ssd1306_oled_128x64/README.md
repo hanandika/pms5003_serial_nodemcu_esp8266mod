@@ -1,4 +1,4 @@
-![diagram pms5003 serial nodemcu esp8266mod](https://raw.githubusercontent.com/hanandika/pms5003_serial_nodemcu_esp8266mod/master/images/pms5003_serial_nodemcu_bb.png)
+![pms5003 serial nodemcu esp8266mod](https://raw.githubusercontent.com/hanandika/pms5003_serial_nodemcu_esp8266mod/master/images/pms5003_serial_nodemcu_ssd1306.png)
 
 # pms5003_serial_nodemcu_esp8266mod
 particle sensor pms5003, pms6003, pms7003 using Serial communication line rather than digital pin.
@@ -165,4 +165,4 @@ void print_int(String names, int value, String satuan) {
 
 
 
-![pms5003 serial nodemcu esp8266mod](https://raw.githubusercontent.com/hanandika/pms5003_serial_nodemcu_esp8266mod/master/images/pms5003_serial_nodemcu_ssd1306.png)
+![pms5003 serial nodemcu esp8266mod](https://raw.githubusercontent.com/hanandika/pms5003_serial_nodemcu_esp8266mod/master/images/image.jpeg)
