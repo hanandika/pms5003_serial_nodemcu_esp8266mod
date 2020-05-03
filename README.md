@@ -8,7 +8,7 @@ Please remember **unplug** TX-cable(from sensor)/RX-cable(from nodemcu) when upl
 **Re-connect** TX-cable(from sensor)/RX-cable(from nodemcu) when succesfully upload, and **do RESET** your nodemcu
 
 ### CODE
-```
+```c++
 struct pms5003data {
   uint16_t framelen;
   uint16_t pm10_standard, pm25_standard, pm100_standard;
