@@ -6,6 +6,7 @@ particle sensor pms5003, pms6003, pms7003 using Serial communication line rather
 ### CAUTION
 Please remember **unplug** TX-cable(from sensor)/RX-cable(from nodemcu) when uploading program.
 **Re-connect** TX-cable(from sensor)/RX-cable(from nodemcu) when succesfully upload, and **do RESET** your nodemcu
+https://www.youtube.com/watch?v=ZFmDEGK6E74
 
 ### CODE
 ```c++
